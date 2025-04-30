@@ -33,3 +33,9 @@ Responsáveis pelo Projeto:
 
 ```bash
 git clone https://github.com/Danilo-Fatec-DSM/CRUD-API.git
+
+```
+2. **Executando**
+```bash
+node app
+go live no index.html
